@@ -4,4 +4,8 @@ I live in delhi
 I love teaching
 We have started devops journey.
 We start learning GIT
+<<<<<<< HEAD
+working in CMS project.
+=======
 i am fahad.
+>>>>>>> 6b1b653f36011a0a2b683569463d009cb241deb6
